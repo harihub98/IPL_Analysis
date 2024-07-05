@@ -40,7 +40,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Team Analysis View
 
-<img src="https://github.com/harihub98/IPL_Analysis/blob/main/images/Bowling.png" class="center">
+<img src="https://github.com/harihub98/IPL_Analysis/blob/main/images/Team.png" class="center">
 
 ## Best Playing 11 View
 
