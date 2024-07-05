@@ -5,6 +5,7 @@ This project is done as a part of Codebasics Resume Challenge.
 
 "Sports Basics" is a sports blog company that entered space recently. They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024. This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data. The chief editor Tony Sharma oversees this publication, and he believes in data analytics. He reached out to Peter Pandey, a journalist in his team who is a data savvy cricket enthusiast.
 
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 Link to [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U0ZWQ3YjctMWNmMS00YjUyLWI5NDQtM2I0OTQ3MzM5MjIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗞𝗲𝘆 𝗧𝗲𝗿𝗺𝘀 
